@@ -1,25 +1,32 @@
-# QuantCite
-
+# **QuantCite**  
 **Institutional Algo-Trading Platform**  
-*Revolutionizing algorithmic trading with cutting-edge technology.*
+_Revolutionizing algorithmic trading with cutting-edge technology._  
 
 ---
 
-### 🚀 **Coming Soon!**  
-QuantCite is an innovative platform for institutional algorithmic trading. Stay ahead in the market with unparalleled insights and technology.
-
-### ✉️ **Join the Waitlist**  
-Be the first to access our platform and receive regular updates.  
-**[Sign up here](https://www.quantcite.com/)**
+## 🚀 **Coming Soon!**  
+QuantCite is your gateway to the future of institutional algorithmic trading.  
+Stay ahead of the curve with advanced technology, deep market insights, and optimized trading strategies.
 
 ---
 
-### 📞 **Contact Us**  
-For inquiries, feel free to reach out to us:  
-- Email: [support@quantcite.com](mailto:support@quantcite.com)  
+## 📝 **Join the Waitlist**  
+Get early access and stay updated on our progress:  
+🔗 **[Sign up now](https://www.quantcite.com/)**  
 
 ---
 
-Stay tuned for more updates!  
-QuantCite Team  
-**[quantcite.com](https://www.quantcite.com/)**
+## 📬 **Contact Us**  
+Have questions or need assistance? We’d love to hear from you!  
+📧 Email us at: [support@quantcite.com](mailto:support@quantcite.com)  
+
+---
+
+## 🔗 **Stay Connected**  
+Follow us for updates, insights, and news.  
+
+---
+
+Thank you for your interest in QuantCite. We can’t wait to share our platform with you!  
+
+**– The QuantCite Team**
